@@ -1,0 +1,36 @@
+.contacto{
+    height: 600px;
+    width: 100%;
+    background-color: #f8f9fa;
+
+}
+
+.redes{
+  display: flex;
+  width: 100%;
+  
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+}
+
+.faIcon{
+    color: rgb(255, 255, 255);
+    font-size: 33px;
+    margin: 100px 10px 0 10px;
+
+    background-color: rgb(3, 3, 3);
+    padding: 15px;
+    border-radius: 30px;
+}
+
+.faIcon:hover{
+    color: #fbff03;
+}
+
+.titCon{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}

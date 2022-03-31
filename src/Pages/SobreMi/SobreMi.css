@@ -1,0 +1,93 @@
+.titulo{
+    display: flex;
+    justify-content: center;
+}
+.titulo h2 {
+    font-size: 1.5rem;
+    background: #fbff03;
+    padding: 8px;
+    border-radius: 4px;
+    font-family: 'Smooch Sans', sans-serif;
+  
+   
+}
+.contenido{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.contenidoUno{
+    display: inline;
+    margin-left: 50px;
+    margin-bottom: 50px;
+
+
+}
+
+.contenidoUno h2{
+    width: 60%;
+    border-bottom: 2.5px solid #fbff03;
+    
+}
+
+.contenidoUno p{
+    font-size: 1.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contenidoDos{
+display: flex;
+justify-content: center;
+margin-bottom: 50px;
+
+
+}
+
+.contenidoDos img{
+    border-radius: 10px;
+}
+
+.linkedin{
+    
+    width: 50px;
+    margin: 0 0 0 10px;
+  
+   
+}
+
+.gmail{
+    width: 50px;
+    margin: 0 0 0 10px;
+}
+
+.gmail:hover{
+    background-color: #fbff03;
+    border-radius: 21px;
+ 
+}
+
+.linkedin:hover{
+   background-color: #fbff03;
+   border-radius: 21px;
+}
+
+.instagram{
+  width: 50px;
+}
+.instagram:hover{
+    
+    background-color: #fbff03;
+    border-radius: 21px;
+}
+
+.curriculo{
+    color: black;
+    text-decoration: none;
+}
+
+.curriculo h4:hover{
+    width: 96px;
+    background-color: black;
+    color: #fbff03;
+    border-radius: 5px;
+}

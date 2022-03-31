@@ -1,0 +1,44 @@
+.padreUno{
+    height: 700px;
+    width: 100%;
+    background-color: #f8f9fa;
+}
+.main{
+    display: grid;
+   grid-template-rows: 20% 80%;
+   height: 100%;
+}
+
+.tituloOne{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0 50px 0;
+    flex-direction: column;
+}
+
+.tituloOne h3{
+    color: #757575;
+}
+
+.card{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-template-areas: "foto1 foto2 foto3"
+
+}
+
+.rol{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   
+}
+
+.rol p{
+  font-size: 1.2rem;
+  line-height: 1.5;
+margin: 0 0 0 40px;
+width: 70%;
+}

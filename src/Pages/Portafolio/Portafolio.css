@@ -1,0 +1,175 @@
+.tituloPor{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.tituloPor h2{
+    font-size: 1.5rem;
+    background: #fbff03;
+    padding: 8px;
+    border-radius: 4px;
+    font-family: 'Smooch Sans', sans-serif;
+  
+}
+
+.tituloPorta{
+    height: 160px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.padrePortafolio{
+    display: grid;
+   width: 100%;
+
+ height: 1600px;                        
+}
+
+.portafolioUno{
+    display: grid;
+    grid-template-columns: 60% 40%;
+   width: 100%;
+    height: 500px;
+   
+  
+}
+
+.dinastia{
+    margin: 0 0 0 100px;
+    width: 70%;
+    height: 380px;
+    border-radius: 10px;
+}
+
+.uno-dos{
+    width: 100%;
+   display: flex;
+   flex-direction: column;
+  
+  
+   
+    
+}
+
+.uno-dos h4{
+    color: #5e5e5e;
+    margin: 50px 0 3px 0;
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+
+.uno-dos h2{
+    font-size: 2rem;
+    margin: 5px 0 20px 0;
+}
+
+.uno-dos p{
+    font-size: 1.1rem;
+    width: 90%;
+    font-family: "Poppins", Arial, sans-serif;
+    color: #5e5e5e;
+    line-height: 1.8;
+    font-weight: 400;
+}
+
+.uno-tres{
+    display: flex;
+}
+
+ .github{
+    text-decoration: none;
+    background-color: #0a0a0a;
+    border-radius: 25px;
+    padding: 5px;
+   justify-content: center;
+   align-items: center;
+    height: 44px;
+    display: flex;
+    width: 44px;
+    margin: 20px 15px 0 0;
+   
+}
+
+.git{
+    font-size: 35px;
+    color: rgb(253, 252, 252);
+}
+
+.git:hover{
+color: #fbff03;
+}
+
+.pages{
+    text-decoration: none;
+    background-color: #000000;
+    border-radius: 25px;
+    padding: 5px;
+   justify-content: center;
+   align-items: center;
+    height: 44px;
+    display: flex;
+    width: 44px;
+    margin: 20px 0 0 0;
+}
+
+.pag{
+    color: rgb(253, 252, 252);
+    font-size: 25px;
+}
+
+.pag:hover{
+color: #fbff03;
+}
+
+.portafolioDos{
+    display: grid;
+    grid-template-columns: 40% 60%;
+   width: 100%;
+    height: 500px;
+}
+
+.dos-uno{
+    margin: 0 0 0 100px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+
+
+    
+}
+
+.dos-tres{
+    display: flex;
+}
+
+
+.huerto{
+    margin: 0 0 0 150px;
+    width: 70%;
+    height: 380px;
+    border-radius: 10px;
+}
+
+
+.dos-uno h4{
+    color: #5e5e5e;
+    margin: 50px 0 3px 0;
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+
+.dos-uno h2{
+    font-size: 2rem;
+    margin: 5px 0 20px 0;
+}
+
+.dos-uno p{
+    font-size: 1.1rem;
+    width: 90%;
+    font-family: "Poppins", Arial, sans-serif;
+    color: #5e5e5e;
+    line-height: 1.8;
+    font-weight: 400;
+}
