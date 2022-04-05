@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portafolio2022/static/css/main.46a6b505.css",
+    "main.js": "/portafolio2022/static/js/main.b80477a4.js",
+    "static/js/787.b9146e80.chunk.js": "/portafolio2022/static/js/787.b9146e80.chunk.js",
+    "static/media/ofi2.jpg": "/portafolio2022/static/media/ofi2.63243e8f137976e03764.jpg",
+    "static/media/huerto.jpg": "/portafolio2022/static/media/huerto.e191910b1a696b7583a8.jpg",
+    "static/media/hamburguesas.png": "/portafolio2022/static/media/hamburguesas.089ed4bed972189ec317.png",
+    "static/media/prueba2.jpeg": "/portafolio2022/static/media/prueba2.891698071794b49ca838.jpeg",
+    "static/media/imagenuno.jpg": "/portafolio2022/static/media/imagenuno.e83c6a55097c0ecabf1b.jpg",
+    "static/media/icono.png": "/portafolio2022/static/media/icono.d3149ddca8d11f96721b.png",
+    "index.html": "/portafolio2022/index.html",
+    "main.46a6b505.css.map": "/portafolio2022/static/css/main.46a6b505.css.map",
+    "main.b80477a4.js.map": "/portafolio2022/static/js/main.b80477a4.js.map",
+    "787.b9146e80.chunk.js.map": "/portafolio2022/static/js/787.b9146e80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46a6b505.css",
+    "static/js/main.b80477a4.js"
+  ]
+}
