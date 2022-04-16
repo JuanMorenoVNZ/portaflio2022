@@ -1,7 +1,7 @@
 import './Home.css'
 import Typed from "react-typed";
 import React from "react";
-import icono from './icono.png'
+
 import imagenuno from '../SobreMi/Imagenes/imagenuno.jpg'
 
 
