@@ -24,7 +24,7 @@ const Portafolio = () => {
                     <div className='padrePortafolio'>
                         <div className='portafolioUno'>
                             <div className='uno-uno'>
-                                <img className='dinastia' src={prueba2} alt="spy imagen uno" />
+                                <img className='dinastia media' src={prueba2} alt="spy imagen uno" />
                             </div>
 
                             <div className='uno-dos'>
@@ -43,9 +43,10 @@ const Portafolio = () => {
                        
                            <div className='dos-uno'>
                                <h4>
-                               Codiing: html + css +boostrap + JavaScript + React + Firebase
+                               Codiing: html + css +boostrap + 
 
                                </h4>
+                               <h4> JavaScript + React + Firebase</h4>
                                <h2>
                                   Mundo Fresco
 
@@ -62,17 +63,18 @@ const Portafolio = () => {
                                  </div>
                            </div>
                             <div className='dos-dos'> 
-                           <img className='huerto' src={huerto} alt="" />
+                           <img className='huerto media' src={huerto} alt="" />
                            </div>
 
                         </div>
                         <div className='portafolioUno'>
                             <div className='uno-uno'>
-                                <img className='dinastia' src={hamburguesas} alt="spy imagen uno" />
+                                <img className='dinastia media' src={hamburguesas} alt="spy imagen uno" />
                             </div>
 
                             <div className='uno-dos'>
-                                 <h4>Codiing: html + css + sass+ boostrap+ Javascript </h4>
+                                 <h4 className='subtitulo'>Codiing: html + css + sass+ </h4>
+                                 <h4 className='subtitulo'>boostrap+ Javascript</h4>
                                  <h2>La Dinastia Burguer</h2>
                                  <p>Desarrollada usando html, css ,sass , boostrap + Javascript
                                     La Dinastia burguer es un ecommerce dinamico para los amantes a la comida.  </p>

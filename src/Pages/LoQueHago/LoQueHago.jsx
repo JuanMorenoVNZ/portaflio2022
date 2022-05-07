@@ -13,7 +13,8 @@ const LoQueHago = () => {
                <section className='section'>
                <div className='tituloOne'>
                    <h3>¿En que puedo ayuduarte?</h3>
-                   <h1>Conecto mis experiencias en tres grandes áreas</h1>
+                   <h1>Conecto mis experiencias </h1>
+                   <h1>en tres grandes áreas</h1>
                </div>
 
 
@@ -26,7 +27,7 @@ const LoQueHago = () => {
 
                     </div>
 
-                    <div className='cardDOS rol'>
+                    <div className='cardDos rol'>
 
                     <img src={desarrollo} alt="" />
                         <h2>Código</h2>

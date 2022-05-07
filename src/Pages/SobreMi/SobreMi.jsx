@@ -24,7 +24,7 @@ const SobreMi = () => {
                     </div>
                     <div>
                         <img className='instagram' src={instagram} alt="" />
-                        <a as={Link} href="http://demo.harnishdesign.net/html/callum/index-image-parallax.html"> <img className='linkedin' src={linkedin} alt="" /></a>
+                         <img className='linkedin' src={linkedin} alt="" />
                         <img className='gmail' src={gmail} alt="instagram"  />
                     </div>
     

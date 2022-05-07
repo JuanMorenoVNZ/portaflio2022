@@ -35,10 +35,70 @@
     flex-direction: column;
    
 }
+h1{
+    margin: 0;
+}
+
+h3 {
+    margin-bottom: 40px;
+}
 
 .rol p{
   font-size: 1.2rem;
   line-height: 1.5;
 margin: 0 0 0 40px;
 width: 70%;
+}
+
+
+@media only screen and (max-width: 830px) { 
+
+    h2{
+        font-size: 1.2rem;
+    }
+
+    img{
+        width: 90px;
+        height: 90px;
+    }
+}
+
+@media only screen and (max-width: 700px) {  
+
+    .card{
+        width: 100%;
+        display: grid;
+        grid-template-columns: 100%;
+        grid-template-rows: 33% 33% 33%;
+        grid-template-areas:    "foto1 "
+                                "foto2 "
+                                " foto3";
+    
+    }
+
+    .padreUno{
+        height: 1200px;
+      
+    }
+.rol{
+    gap: 10px;
+}
+
+.cardDos {
+    margin-top: 50px;
+}
+
+.cardTres{
+    margin-top: 50px;
+}
+
+h1{
+    font-size: 1.3rem;
+}
+
+}
+
+@media only screen and (max-width: 450px) {  
+
+
 }

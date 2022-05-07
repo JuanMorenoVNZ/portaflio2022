@@ -50,3 +50,33 @@
     font-size: 2.2rem;
     font-family: 'Smooch Sans', sans-serif;
 }
+
+@media only screen and (max-width: 550px) {
+
+    .HomeHijos h2{
+       
+        font-size: 2.5rem;
+       
+    }
+
+    .HomeHijos h4 span{
+       
+        font-size: 1.5rem;
+       
+    }
+}
+
+@media only screen and (max-width: 383px) {
+
+    .HomeHijos h2{
+       
+        font-size: 2.2rem;
+       
+    }
+
+    .HomeHijos h4 span{
+       
+        font-size: 1.3rem;
+       
+    }
+}

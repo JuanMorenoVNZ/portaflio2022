@@ -173,3 +173,93 @@ color: #fbff03;
     line-height: 1.8;
     font-weight: 400;
 }
+
+@media only screen and (max-width: 830px) { 
+
+   .media {
+       width: 280px;
+       height: 280px;
+   }
+}
+
+
+@media only screen and (max-width: 700px) {  
+    .portafolioUno{
+        display: grid;
+        grid-template-columns: 100%;
+        grid-template-rows: 40% 60%;
+       width: 100%;
+        height: 700px;
+       
+      
+    }
+
+    .uno-uno{
+        align-items: center;
+        justify-content: center;
+        display: flex;
+    }
+    .uno-dos{ 
+
+        align-items: center;
+        
+    }
+
+    .media{
+        margin: 0;
+    }
+
+    .tituloPorta{
+        height: 80px;
+    }
+
+    .uno-dos h4{
+        margin: 35px 0 0 0;
+    }
+
+    .portafolioDos{
+        display: grid;
+        grid-template: repeat(10, 1fr)/repeat(10, 1fr);
+       
+       width: 100%;
+        height: 700px;
+    }
+    
+    .dos-uno{
+        display: flex;
+        align-items: center;
+        grid-column: 1 / 11;
+        grid-row: 6 / 10;
+        margin: 0;
+        justify-content: center;
+        
+    }
+
+    .dos-uno h4{
+        margin-top: 15px;
+    }
+    .dos-dos{ 
+        grid-column: 1 / 11;
+        grid-row: 1 / 3;
+
+        
+        justify-content: center;
+        display: grid;
+        
+    }
+
+    .padrePortafolio{
+
+        height: 2200px;
+    }
+
+    .tituloPorta h1 {
+        font-size: 1.2rem;
+    }
+
+     .uno-dos .subtitulo{
+        margin: 15px;
+    }
+
+
+}
